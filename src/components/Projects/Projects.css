@@ -1,0 +1,66 @@
+.Project .desc .para h2 {
+  border: 1px solid red;
+  color: rgb(77, 77, 77);
+  font-size: 1.2rem;
+  font-weight: normal;
+}
+
+.Project .para p {
+  color: rgb(31, 31, 31);
+  font-size: 1rem;
+  font-weight: normal;
+}
+
+.Project .desc .btns button {
+  padding: 10px;
+  margin: 4px;
+  cursor: pointer;
+  border: none;
+  border-radius: 3px;
+  font-family: "Balsamiq Sans", cursive;
+  background-color: rgb(155, 155, 155);
+  color: white;
+}
+
+.Project .image {
+  width: 50%;
+}
+
+.Project .desc {
+  width: 50%;
+  border: 1px solid;
+  height: 300px;
+}
+
+.Project .btns button:hover {
+  background-color: rgb(88, 88, 88);
+}
+
+.Project .image {
+  border: 1px solid;
+  height: 300px;
+}
+
+.Project .image img {
+  height: 100%;
+  object-fit: contain;
+  width: 100%;
+}
+
+@media all and (max-width: 500) {
+  .image {
+    display: table;
+    clear: both;
+    content: "";
+    width: 100%;
+    background-color: blue;
+  }
+
+  .desc {
+    display: table;
+    clear: both;
+    content: "";
+    width: 100%;
+    background-color: brown;
+  }
+}

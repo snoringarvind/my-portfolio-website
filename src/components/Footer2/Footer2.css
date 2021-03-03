@@ -1,0 +1,10 @@
+.Footer2 {
+  border: 1px solid;
+  height: 15vh;
+  background-color: rgb(26, 26, 26);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
+}

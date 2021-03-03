@@ -1,0 +1,25 @@
+.Contact {
+  border: 1px solid;
+  height: 67vh;
+  font-weight: bold;
+}
+
+.Contact1 {
+  border: 1px solid red;
+  margin: 10% 0 0 15%;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 1.3rem;
+  letter-spacing: 3px;
+}
+
+.Contact .head {
+  border: 1px;
+  color: rgb(51, 51, 51);
+}
+
+.Contact .group {
+  border: 1px solid;
+  line-height: 10%;
+  margin: 20px 0;
+  color: rgb(80, 80, 80);
+}

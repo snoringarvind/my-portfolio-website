@@ -1,0 +1,50 @@
+.Navigation {
+  display: flex;
+  height: 8vh;
+  border: 1px solid;
+  align-items: center;
+}
+
+.Navigation.nav-home {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1;
+}
+
+.Navigation.nav-not-home {
+  background-color: #314b80;
+}
+
+.Navigation .nav-head {
+  border: 1px solid;
+  flex-basis: 40%;
+  padding-left: 20px;
+  font-size: 1.4em;
+}
+
+.Navigation .nav-links {
+  border: 1px solid;
+  flex-basis: 60%;
+  display: flex;
+  justify-content: space-around;
+}
+
+.Navigation .nav-links a {
+  text-decoration: none;
+  font-size: 1.1rem;
+  display: block;
+}
+
+.Navigation * {
+  font-family: "Balsamiq Sans", cursive;
+  letter-spacing: 1px;
+  color: white;
+}
+
+.Navigation .nav-links a.active {
+  text-decoration: underline;
+  text-decoration-color: white;
+  text-decoration-thickness: 2px;
+}
