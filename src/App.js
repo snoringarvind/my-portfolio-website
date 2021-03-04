@@ -13,6 +13,7 @@ import Navigation from "./components/Navigation/Navigation";
 import Contact from "./components/Contact/Contact";
 import Resume from "./components/Resume/Resume";
 import Projects from "./components/Projects/Projects";
+import Hamburger from "./components/Hamburger";
 
 const App = () => {
   const location = useLocation();
@@ -25,12 +26,7 @@ const App = () => {
         }
       >
         <div className="nav-head">ARVIND CHAUHAN</div>
-        <div className="nav-links">
-          <Navigation to="/" label="Home" />
-          <Navigation to="/self-projects" label="Self-projects" />
-          <Navigation to="/contact" label="Contact" />
-          <Navigation to="/resume" label="Resume" />
-        </div>
+        <Hamburger />
       </div>
       <Switch>
         <Route exact path="/">
