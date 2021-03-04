@@ -1,20 +1,20 @@
-import React, { useEffect, useState } from "react";
+import React from "react";
 import "./Projects.css";
-import shopping_mob from "../../shopping_mob.png";
-import shopping_desk from "../../shopping_desk.png";
-import facebook_mob from "../../facebook_mob.png";
-import facebook_desk from "../../facebook_desk.png";
-import blog_mob from "../../blog_mob.png";
-import blog_desk from "../../blog_desk.png";
-import inventory_mob from "../../inventory_mob.png";
-import inventory_desk from "../../inventory_desk.png";
-import tic_tac from "../../tic-tac.png";
-import etch_mob from "../../etch_mob.png";
-import etch_desk from "../../etch_desk.png";
-import tech_mob from "../../tech_mob.png";
-import tech_desk from "../../tech_desk.png";
-import todo_desk from "../../todo_desk.png";
-import todo_mob from "../../todo_mob.png";
+import shopping_mob from "../../Images/shopping_mob.png";
+import shopping_desk from "../../Images/shopping_desk.png";
+import facebook_mob from "../../Images/facebook_mob.png";
+import facebook_desk from "../../Images/facebook_desk.png";
+import blog_mob from "../../Images/blog_mob.png";
+import blog_desk from "../../Images/blog_desk.png";
+import inventory_mob from "../../Images/inventory_mob.png";
+import inventory_desk from "../../Images/inventory_desk.png";
+import tic_tac from "../../Images/tic-tac.png";
+import etch_mob from "../../Images/etch_mob.png";
+import etch_desk from "../../Images/etch_desk.png";
+import tech_mob from "../../Images/tech_mob.png";
+import tech_desk from "../../Images/tech_desk.png";
+import todo_desk from "../../Images/todo_desk.png";
+import todo_mob from "../../Images/todo_mob.png";
 
 const Project = () => {
   return (

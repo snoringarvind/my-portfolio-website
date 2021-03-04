@@ -1,15 +1,9 @@
 import "./App.css";
 import React from "react";
-import {
-  BrowserRouter as Router,
-  Route,
-  Switch,
-  useLocation,
-} from "react-router-dom";
+import { Route, Switch, useLocation } from "react-router-dom";
 import Home from "./components/Home/Home";
 import Footer1 from "./components/Footer1/Footer1";
 import Footer2 from "./components/Footer2/Footer2";
-import Navigation from "./components/Navigation/Navigation";
 import Contact from "./components/Contact/Contact";
 import Resume from "./components/Resume/Resume";
 import Projects from "./components/Projects/Projects";

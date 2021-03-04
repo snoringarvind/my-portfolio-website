@@ -1,5 +1,5 @@
-import React, { useState } from "react";
-import moon from "../../moon.jpg";
+import React from "react";
+import moon from "../../Images/moon.jpg";
 import "./Home.css";
 
 const Home = () => {
