@@ -1,13 +1,13 @@
 .Project .grid-container {
   display: grid;
   grid-template-columns: 48% 48%;
-  grid-gap: 50px 4%;
+  grid-gap: 70px 4%;
   width: 80%;
   margin: 50px auto;
 }
 
 .Project .desc {
-  border: 1px solid red;
+  /* border: 1px solid red; */
   height: 300px;
   padding: 0 20px;
   text-align: center;
@@ -22,7 +22,7 @@
 }
 
 .Project .para h2 {
-  border: 1px solid blue;
+  /* border: 1px solid blue; */
   margin-top: 0;
   font-size: 1.2vw;
   font-weight: 600;
@@ -34,7 +34,7 @@
 }
 
 .Project .para p {
-  border: 1px solid green;
+  /* border: 1px solid green; */
   font-size: 1.5vw;
   line-height: 150%;
   color: rgb(71, 71, 71);
@@ -42,7 +42,7 @@
   font-family: "RocknRoll One", sans-serif;
 }
 .Project .image {
-  border: 1px solid;
+  /* border: 1px solid; */
   height: 300px;
   display: flex;
   align-items: center;
@@ -51,7 +51,7 @@
 }
 
 .Project .btns {
-  border: 1px solid blue;
+  /* border: 1px solid blue; */
   display: flex;
   justify-content: space-evenly;
 }
@@ -63,6 +63,7 @@
   color: white;
   border: none;
   font-weight: bold;
+  font-size: 1.1rem;
   border-radius: 4px;
   cursor: pointer;
   outline: none;
@@ -98,7 +99,7 @@
 }
 
 .Project .follow-up {
-  border: 1px solid;
+  /* border: 1px solid; */
   font-size: 1.1rem;
   text-align: center;
   font-weight: 600;
@@ -107,6 +108,7 @@
   font-family: "Roboto", sans-serif;
   font-family: "RocknRoll One", sans-serif;
   letter-spacing: 2px;
+  margin-bottom: 70px;
 }
 @media all and (max-width: 1000px) {
   .Project .desc .para h2 {
@@ -142,7 +144,7 @@
 @media all and (max-width: 500px), (max-device-width: 600px) {
   .Project .desc {
     height: fit-content;
-    margin-bottom: 60px;
+    margin-bottom: 70px;
   }
 
   .Project .desc .para h2 {

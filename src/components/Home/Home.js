@@ -24,8 +24,8 @@ const Home = () => {
             websites, I have made some cool apps for my self-projects like
             facebook clone, blog site, inventory-app, shopping app (front-end
             only). For now the skills I have are HTML, CSS, Javascript, Nodejs,
-            Express, React, MongoDB, Python, Machine Learning and I hope to add
-            more skills in my kit as I progress with time :)
+            Express, React, MongoDB, Python and Machine Learning. And I hope to
+            add more skills in my kit as I progress with time :)
           </p>
         </div>
       </div>

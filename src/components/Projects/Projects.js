@@ -69,8 +69,8 @@ const Project = () => {
               <h2>Blog Site</h2>
               <p>
                 A blog site with two frontends, one for admin to handle the
-                content and the other one for viewers. To get the password of
-                admin-site please see the github's readme.
+                content and the other one for viewers. To get the link and
+                password of admin-site please see the github's readme.
               </p>
             </div>
             <div className="btns">
@@ -300,7 +300,7 @@ const Project = () => {
             <div className="para">
               <h2>Tic-tac-toe</h2>
               <p>
-                It is a classic tic-tac-toe game. This is also my first react
+                It is the classic tic-tac-toe game. This is also my first react
                 app which I learnt from React docs. This app is made using class
                 components.
               </p>
