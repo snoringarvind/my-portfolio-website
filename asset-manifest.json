@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c8acbedf.chunk.css",
+    "main.js": "/static/js/main.b53f19c5.chunk.js",
+    "main.js.map": "/static/js/main.b53f19c5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d2fbeb37.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d2fbeb37.js.map",
+    "static/js/2.ecf3cf17.chunk.js": "/static/js/2.ecf3cf17.chunk.js",
+    "static/js/2.ecf3cf17.chunk.js.map": "/static/js/2.ecf3cf17.chunk.js.map",
+    "static/js/3.2b6f2d50.chunk.js": "/static/js/3.2b6f2d50.chunk.js",
+    "static/js/3.2b6f2d50.chunk.js.map": "/static/js/3.2b6f2d50.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c8acbedf.chunk.css.map": "/static/css/main.c8acbedf.chunk.css.map",
+    "static/js/2.ecf3cf17.chunk.js.LICENSE.txt": "/static/js/2.ecf3cf17.chunk.js.LICENSE.txt",
+    "static/media/blog_desk.0b5e0411.png": "/static/media/blog_desk.0b5e0411.png",
+    "static/media/blog_mob.76560b1b.png": "/static/media/blog_mob.76560b1b.png",
+    "static/media/etch_desk.b8cde017.png": "/static/media/etch_desk.b8cde017.png",
+    "static/media/etch_mob.3bcf34c6.png": "/static/media/etch_mob.3bcf34c6.png",
+    "static/media/facebook_desk.ab24b9e0.png": "/static/media/facebook_desk.ab24b9e0.png",
+    "static/media/facebook_mob.d32c2348.png": "/static/media/facebook_mob.d32c2348.png",
+    "static/media/inventory_desk.c9ea753a.png": "/static/media/inventory_desk.c9ea753a.png",
+    "static/media/inventory_mob.a2fb0343.png": "/static/media/inventory_mob.a2fb0343.png",
+    "static/media/moon.a026e01b.jpg": "/static/media/moon.a026e01b.jpg",
+    "static/media/resume.26dfa15b.png": "/static/media/resume.26dfa15b.png",
+    "static/media/shopping_desk.84ad44e8.png": "/static/media/shopping_desk.84ad44e8.png",
+    "static/media/shopping_mob.a1c59204.png": "/static/media/shopping_mob.a1c59204.png",
+    "static/media/tech_desk.5ed72070.png": "/static/media/tech_desk.5ed72070.png",
+    "static/media/tech_mob.4828e3c7.png": "/static/media/tech_mob.4828e3c7.png",
+    "static/media/tic-tac.77658b97.png": "/static/media/tic-tac.77658b97.png",
+    "static/media/todo_desk.a9f828d6.png": "/static/media/todo_desk.a9f828d6.png",
+    "static/media/todo_mob.97f7d4c9.png": "/static/media/todo_mob.97f7d4c9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d2fbeb37.js",
+    "static/js/2.ecf3cf17.chunk.js",
+    "static/css/main.c8acbedf.chunk.css",
+    "static/js/main.b53f19c5.chunk.js"
+  ]
+}
