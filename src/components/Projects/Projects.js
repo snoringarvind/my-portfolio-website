@@ -32,9 +32,9 @@ const Project = () => {
             <div className="para">
               <h2>Facebook Clone</h2>
               <p>
-                A facebook clone with the basic functionalities of login,
-                signup, create-post, edit-post, comment, like, add-friends, and
-                chat.
+                My biggest project so far. A facebook clone with the basic
+                functionalities of login, signup, create-post, edit-post,
+                comment, like, add-friends, and chat.
               </p>
             </div>
             <div className="btns">
@@ -69,8 +69,8 @@ const Project = () => {
               <h2>Blog Site</h2>
               <p>
                 A blog site with two frontends, one for admin to handle the
-                content and the other one for viewers. To get the link and
-                password of admin-site please see the github's readme.
+                content and the other one for viewers. To get the link, username
+                and password of admin-site please see the github's readme.
               </p>
             </div>
             <div className="btns">
