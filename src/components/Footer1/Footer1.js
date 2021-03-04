@@ -5,7 +5,7 @@ const Footer1 = () => {
   return (
     <div className="Footer1">
       <a
-        href="https://www.instagram.com/snoringarvind/"
+        href="https://www.linkedin.com/in/chauhan-arvind/"
         target="_blank"
         rel="noopener noreferrer"
       >
@@ -19,7 +19,7 @@ const Footer1 = () => {
         <i className="fab fa-twitter"></i>
       </a>
       <a
-        href="https://www.linkedin.com/in/chauhan-arvind/"
+        href="https://www.instagram.com/snoringarvind/"
         target="_blank"
         rel="noopener noreferrer"
       >
