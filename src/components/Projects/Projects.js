@@ -300,9 +300,8 @@ const Project = () => {
             <div className="para">
               <h2>Tic-tac-toe</h2>
               <p>
-                It is the classic tic-tac-toe game. This is also my first react
-                app which I learnt from React docs. This app is made using class
-                components.
+                My first react app where I have used class components which I
+                learnt from react docs. This is the classic tic-tac-toe game.
               </p>
             </div>
             <div className="btns">
