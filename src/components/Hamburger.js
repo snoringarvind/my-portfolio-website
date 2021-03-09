@@ -24,8 +24,9 @@ const Hamburger = () => {
       <div className="nav-links">
         <Navigation to="/" label="Home" />
         <Navigation to="/self-projects" label="Self-projects" />
+        <Navigation to="/courses&trainings" label="Courses & Trainings" />
+        {/* <Navigation to="/resume" label="Resume" /> */}
         <Navigation to="/contact" label="Contact" />
-        <Navigation to="/resume" label="Resume" />
       </div>
     </div>
   );

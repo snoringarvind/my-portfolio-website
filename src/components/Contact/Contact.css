@@ -1,6 +1,6 @@
 .Contact {
   /* border: 1px solid; */
-  height: 67vh;
+  min-height: 67vh;
   font-weight: bold;
   width: 100vw;
 }
@@ -26,8 +26,9 @@
 
 @media all and (max-device-width: 600px), (max-width: 500px) {
   .Contact1 {
-    padding: 10% 10px 0 8px;
+    padding: 10% 8px 0 8px;
     font-size: 1.2rem;
+    /* border: 1px solid red; */
   }
 }
 

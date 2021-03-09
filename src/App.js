@@ -8,6 +8,7 @@ import Contact from "./components/Contact/Contact";
 import Resume from "./components/Resume/Resume";
 import Projects from "./components/Projects/Projects";
 import Hamburger from "./components/Hamburger";
+import Courses from "./components/Courses/Courses";
 
 const App = () => {
   const location = useLocation();
@@ -16,7 +17,7 @@ const App = () => {
     <div className="App">
       <div
         className={
-          path == "/" ? "Navigation nav-home" : "Navigation nav-not-home"
+          path === "/" ? "Navigation nav-home" : "Navigation nav-not-home"
         }
       >
         <div className="nav-head">ARVIND CHAUHAN</div>
@@ -34,6 +35,9 @@ const App = () => {
         </Route>
         <Route path="/self-projects">
           <Projects />
+        </Route>
+        <Route path="/courses&trainings">
+          <Courses />
         </Route>
       </Switch>
       <Footer1 />

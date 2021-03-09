@@ -1,0 +1,43 @@
+.Courses {
+  min-height: 67vh;
+  /* border: 1px solid; */
+}
+
+.courses-container {
+  padding: 5% 0 5% 10%;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-size: 1rem;
+  /* border: 1px solid; */
+}
+
+.Courses .title h1 {
+  /* border: 1px solid; */
+}
+
+.Courses .sub-category li {
+  /* border: 1px solid red; */
+  padding-bottom: 10px;
+}
+
+.Courses a {
+  color: rgb(27, 27, 27);
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.Courses .redirect-icon {
+  color: rgb(71, 71, 71);
+}
+@media all and (max-device-width: 600px), (max-width: 500px) {
+  .courses-container {
+    padding: 5% 8px 0 8px;
+    /* border: 1px solid red; */
+  }
+}
+
+@media only screen and (max-width: 300px), (max-device-width: 300px) {
+  .courses-container {
+    padding: 10% 2px 0 2px;
+    font-size: 4vw;
+  }
+}
