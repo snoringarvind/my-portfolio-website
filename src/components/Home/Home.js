@@ -8,7 +8,7 @@ const Home = () => {
       <div className="image-container">
         <img src={moon} alt="moon" />
         <div className="over-img">
-          <p>I AM A FULL STACK WEB DEVELOPER</p>
+          <p>FULL STACK WEB DEVELOPER</p>
           <p>BASED IN MUMBAI</p>
         </div>
       </div>
@@ -18,9 +18,9 @@ const Home = () => {
         </div>
         <div className="content">
           <p>
-            I am a full-stack web developer based in Mumbai, India. I have
-            completed my engineering in Electronics And Telecommuncations from
-            Atharva Colllege of Engineering, Mumbai. I like to design and create
+            I am a full-stack web developer based in Mumbai, India. Completed my
+            engineering in Electronics And Telecommuncations from Atharva
+            Colllege of Engineering, Mumbai. I like to design and create
             websites, I have made some cool apps for my self-projects like
             facebook clone, blog site, inventory-app, shopping app (front-end
             only). For now the skills I have are HTML, CSS, Javascript, Nodejs,
