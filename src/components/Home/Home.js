@@ -19,8 +19,8 @@ const Home = () => {
         <div className="content">
           <p>
             I am a full-stack web developer based in Mumbai, India. Completed my
-            engineering in Electronics And Telecommuncations from Atharva
-            Colllege of Engineering, Mumbai. I like to design and create
+            engineering in Electronics And Telecommunications from Atharva
+            College of Engineering, Mumbai. I like to design and create
             websites, I have made some cool apps for my self-projects like
             facebook clone, blog site, inventory-app, shopping app (front-end
             only). For now the skills I have are HTML, CSS, Javascript, Nodejs,
